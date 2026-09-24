@@ -10,3 +10,5 @@ const {nome, nota1, nota2} = aluno;
 const media = calcularMedia(nota1, nota2);
 
 console.log(`${nome} ficou com média ${media}.`);
+
+//teste
